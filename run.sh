@@ -1,4 +1,6 @@
 #!/bin/bash
+'''источник автоудаления контейнеров: https://beget.com/ru/kb/how-to/vps/ochistka-obrazov-kontejnerov-i-tomov-v-docker#udalenie-konteynerov'''
+
 set -e
 case "$1" in
 
